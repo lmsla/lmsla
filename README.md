@@ -1,6 +1,6 @@
-# Hi there, I'm [Name] 👋
+# Hi there, I'm Russell Chen 👋
 
-> A SRE/DevOps Engineer focusing on Golang, Kubernetes, and System Architecture.
+> A Data/DevOps Engineer focusing on Golang, Kubernetes, and System Architecture.
 
 ### 🔭 Focus & Philosophy
 - **Architecture**: Domain-Driven Design, Microservices, Event-Driven.
