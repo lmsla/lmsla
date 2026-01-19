@@ -1,14 +1,14 @@
 # Hi, I'm Russell Chen 👋
 
-### 🚀 DevOps & Data Engineer | Golang & ELK Stack
+### DevOps & Data Engineer | Golang & ELK Stack
 
 ---
 
-### 💡 About Me
+### About Me
 
 Dedicated to architecting resilient, scalable **log analysis platforms (SIEM)** and **automation tools**. Expert in transforming complex heterogeneous data into standardized insights and implementing automated governance through **Infrastructure as Code**.
 
-- 🔭 **Focus**: Elasticsearch Performance Tuning, Kubernetes Operators, Golang Microservices
+🔭 **Focus**: Elasticsearch Performance Tuning, Kubernetes Operators, Golang Microservices
 
 ---
 
